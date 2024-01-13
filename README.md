@@ -6,6 +6,7 @@
 - correct display of a list of payments in case of erroneous data (missing fields, type mismatch)
 
 ## Code stack:
+- jetpack compose
 - Kotlin
 - Retrofit
 - Coroutines
