@@ -4,13 +4,14 @@
 - if the login/password is incorrect, we display an "error"
 - it is necessary to provide the possibility of logout
 - correct display of a list of payments in case of erroneous data (missing fields, type mismatch)
+- simple architecture and logic
 
 ## Code stack:
 - jetpack compose
 - Kotlin
 - Retrofit
 - Coroutines
-- simple architecture and logic
+
 
 ## API:
 - Base URL https://easypay.world/api-test/, app-key=12345 and v=1 should be passed in headers
